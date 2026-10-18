@@ -142,4 +142,4 @@ The shader exposes knobs at the top of `tesla_coil.glsl` — tweak freely:
 
 ## 📄 License
 
-Personal config — use it however you like. The shader builds on Inigo Quilez's 2D distance functions ([iquilezles.org/articles/distfunctions2D/](https://iquilezles.org/articles/distfunctions2D/)).
+Personal config — use it however you like. The custom shader builds 2D distance functions 
